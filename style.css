@@ -24,8 +24,8 @@ body{
 }
 
 .grid-item{
-    width: 250px;
-    height: 430px;
+    width: 200px;
+    height: 440px;
     margin: 8px;
     object-fit: cover;
     border-radius: 5px 5px 5px 5px;
